@@ -1,7 +1,7 @@
 # 🛍️ E-commerce Website
 
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/891/891462.png" alt="E-commerce Website Logo" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/891/891462.png" alt="E-commerce Website Logo" width="80">
   <br>
   <h3>Your One-Stop Online Shopping Experience</h3>
   
